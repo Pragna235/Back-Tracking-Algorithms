@@ -40,7 +40,7 @@ int main()
     cin>>n;
 
 
-    cout<<"Enter the weight required weight of subsets : "<<endl;
+    cout<<"Enter the required weight of subsets : "<<endl;
     cin>>m;
 
     cout<<"Enter the elements one by one : "<<endl;

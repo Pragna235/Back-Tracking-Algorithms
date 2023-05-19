@@ -63,7 +63,7 @@ void Hamiltonian(int k)
         NextValue(k);
 
         //cout<<"x[k] in Hamiltonian = "<<x[k]<<endl;
-        if(x[k]==0) //if the node at index k is not included (it does not form a hamiltonian cycle
+        if(x[k]==0) //if the node at index k is not included (it does not form a hamiltonian cycle)
             return;
 
         //cout<<"k = "<<k<<"N-1 = "<<N-1<<endl;

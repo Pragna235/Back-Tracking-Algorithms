@@ -100,7 +100,7 @@ int main()
     }
     cout<<endl;
 
-    Hamiltonian(1); //We are backtracking so, we are checking if the given node and it's previous node has an edge or not. So we passed 1 to check the edge between 1 and 0 - that means it is forming a cycle
+    Hamiltonian(1); //We are backtracking so, we are checking if the given node and it's previous node has an edge or not. So we passed 1 to check the edge between 1 and 0 - that means it is not forming a cycle
 
 
 
